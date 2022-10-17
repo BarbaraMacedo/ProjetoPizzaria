@@ -1,0 +1,229 @@
+body{
+    background-color: white;
+    align-items: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+/*cadastro*/
+.estilo1{
+    background-color: rgb(221, 221, 221);
+    width: 500px;
+    height: 700px;
+    align-items: left;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    box-shadow: rgba(0, 0, 0, 0.63) 5px 5px 5px;
+    border-radius: 10px;
+}
+.form1{
+    width: 480px;
+    height: 30px;
+    text-align: left;
+    border-radius: 5px;
+    border: 0px;
+}
+.form2{
+    width: 148px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+}
+.form3{
+    width: 480px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+.form4{
+    width: 480px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+.form5{
+    width: 480px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.button{
+    background-color: rgb(169, 169, 236);
+    border: 0px;
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: white;
+    transition: background-color 1.5s;
+    color: black;
+}
+h3{
+    font-family: Segoe Script;
+    text-align: center;
+    color: rgb(233, 161, 185);
+    text-shadow: black 2px 2px 2px;
+}
+
+/*login*/
+.titulo{
+    font-family: Segoe Script;
+    text-align: center;
+    color: white;
+    text-shadow: black 2px 2px 2px;
+}
+.estilo2{
+    background-color: rgba(255, 236, 236, 0.527);
+    width: 450px;
+    height: 500px;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 0px;
+    box-shadow: rgba(0, 0, 0, 0.63) 5px 5px 5px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.login{
+    width: 300px;
+    height: 30px;
+    text-align: left;
+    border-radius: 5px;
+    border: 0px;
+}
+.login2{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+/*Pagina cardapio*/
+.select{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border: 0px;
+}
+.pizza{
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 320px;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    padding-left: 20px;
+    display: block;
+    box-shadow: rgba(255, 255, 0, 0.671) 3px 3px 3px 3px;
+}
+.p{
+    padding-left: 130px;
+}
+.doce{
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    padding-left: 20px;
+    margin-top: 28px;
+    margin-left: -15px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-top: 20px;
+    box-shadow: rgba(255, 192, 203, 0.671) 3px 3px 3px 3px;
+}
+.p1{
+    margin-top: -377px;
+    padding-left: 555px;
+}
+.bebida{
+    background-color: white;
+    width: 320px;
+    height: 300px;
+    padding-left: 20px;
+    margin-top: 28px;
+    margin-left: 880px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-top: 20px;
+    box-shadow: rgba(0, 0, 255, 0.719) 3px 3px 3px 3px;
+}
+
+.p2{
+    margin-top: -377px;
+    padding-left: 1012px;
+}
+
+
+/*Botão pagina cardapio*/
+.button2{
+    background-color: rgb(209, 169, 236);
+    border: 0px;
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: white;
+    transition: background-color 1.5s;
+    color: black;
+}
+/*Botão pagina carrinho*/
+.button3{
+    background-color: rgb(169, 169, 236);
+    border: 0px;
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    align-items: center;
+    margin-left: 55px;
+    cursor: pointer;
+}
+.button3:hover{
+    background-color: white;
+    transition: background-color 1.5s;
+    color: black;
+}
+/*div carrinho*/
+
+.estilo3{
+    background-color: #fcf8e4b6;
+    width: 600px;
+    border-radius: 15px;
+    height: 550px;
+    text-align: center;
+}
+/*Rodapé*/
+.rodapé{
+    background-color: #fdf6d1;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rodapé img{
+    width: 280px;
+    height: 120px;
+}
+
+.rodapé a{
+    color: inherit;
+}
+
+.rodapé a:hover{
+    color: #410000;
+}
+
+.text{
+   padding-bottom: 10px;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   cursor: pointer;
+}
